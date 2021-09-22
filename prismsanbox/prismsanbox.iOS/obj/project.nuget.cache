@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KA9Bjb0rYqbduQ0M+icRKEPoS9GPPVd5U8FeRpzUU4wc0pIXdIbD//8Uymsy/rcyf62A+0WKVg+x9rXdiNEEhQ==",
+  "success": true,
+  "projectFilePath": "E:\\mountrash\\sandbox\\prismsanbox\\prismsanbox\\prismsanbox.iOS\\prismsanbox.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\has\\.nuget\\packages\\dryioc.dll\\4.5.0\\dryioc.dll.4.5.0.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\prism.dryioc.forms\\8.0.0.1909\\prism.dryioc.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.3.2\\xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\has\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}
